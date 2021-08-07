@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ItemCollection>
+  <Itens>
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_01</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/01</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_02</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/02</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_03</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/03</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_04</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/04</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_05</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/05</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_06</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/06</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_07</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/07</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_08</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/08</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_09</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/09</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_10</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/10</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_11</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/11</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "imagem01">
+      <thumbnail>Data/Oeste/Arti/Imagens/thumb_12</thumbnail>
+      <data>Data/Oeste/Arti/Imagens/12</data>
+      <type>imagem</type>
+    </Item>
+    
+  </Itens>
+</ItemCollection>

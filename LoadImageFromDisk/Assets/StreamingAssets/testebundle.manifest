@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2759500037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 802df6cc37b98663d7a65c482c1bacf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c24606c3b3e61fa66a210dffdf4f8596
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Data/Oeste/Arti/Plantas/09.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_09.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_05.PNG
+- Assets/Resources/Data/Oeste/Arti/background.jpg
+- Assets/Resources/Data/Oeste/Arti/Imagens/04.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/03.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/05.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/07.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/10.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/06.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/12.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_02.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_11.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_04.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_04.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/03.png
+- Assets/Resources/Data/Oeste/Arti/menu_button.png
+- Assets/Resources/Data/Commons/Videos/manifesto_r.mp4
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_03.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/02.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/08.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/07.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/08.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_03.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_09.PNG
+- Assets/Resources/Data/Commons/Videos/thumb_01.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_01.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_01.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_07.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/06.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_10.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_08.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_02.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_06.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/04.png
+- Assets/Resources/Data/Oeste/Arti/topbar.png
+- Assets/Resources/Data/Commons/Imagens/thumb_01.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_05.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/01.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/11.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/02.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/09.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/05.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/10.png
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_12.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_10.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_07.PNG
+- Assets/Resources/Data/Oeste/Arti/Plantas/01.png
+- Assets/Resources/Data/Oeste/Arti/Plantas/thumb_08.PNG
+- Assets/Resources/Data/Oeste/Arti/Imagens/thumb_06.PNG
+Dependencies: []

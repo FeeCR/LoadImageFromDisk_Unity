@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ItemCollection>
+  <Itens>
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_01</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/01</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_02</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/02</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_03</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/03</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_04</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/04</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_05</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/05</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_06</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/06</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_07</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/07</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_08</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/08</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_09</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/09</data>
+      <type>imagem</type>
+    </Item>
+
+    <Item name = "planta01">
+      <thumbnail>Data/Oeste/Arti/Plantas/thumb_10</thumbnail>
+      <data>Data/Oeste/Arti/Plantas/10</data>
+      <type>imagem</type>
+    </Item>
+
+  </Itens>
+</ItemCollection>

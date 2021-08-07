@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ItemCollection>
+  <Itens>
+    <Item name = "video01">
+      <thumbnail>Data/Commons/Videos/thumb_01</thumbnail>
+      <data>Data/Commons/Videos/manifesto_r</data>
+      <type>video</type>
+    </Item>
+  </Itens>
+</ItemCollection>
